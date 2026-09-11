@@ -2,6 +2,8 @@
 
 A desktop Gomoku game built with Java Swing, supporting human vs human, human vs AI, undo, login/register, and local score persistence.
 
+> Academic context: this directory contains a course lab or coursework solution.
+
 ---
 
 ## Features
